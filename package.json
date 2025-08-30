@@ -2,6 +2,7 @@
   "name": "areacalculater",
   "private": true,
   "type": "module",
+  "homepage": "https://shyamkumaryadav.github.io/areacalculater",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
@@ -11,10 +12,12 @@
   "dependencies": {
     "@react-router/node": "^7.7.1",
     "@react-router/serve": "^7.7.1",
+    "clsx": "^2.1.1",
     "isbot": "^5.1.27",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
-    "react-router": "^7.7.1"
+    "react-router": "^7.7.1",
+    "tailwind-merge": "^3.3.1"
   },
   "devDependencies": {
     "@react-router/dev": "^7.7.1",
