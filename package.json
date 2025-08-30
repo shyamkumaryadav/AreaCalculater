@@ -2,7 +2,7 @@
   "name": "areacalculater",
   "private": true,
   "type": "module",
-  "homepage": "https://shyamkumaryadav.github.io/areacalculater",
+  "homepage": "https://shyamkumaryadav.github.io/AreaCalculater",
   "scripts": {
     "build": "react-router build",
     "dev": "react-router dev",
